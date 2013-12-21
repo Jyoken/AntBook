@@ -19,12 +19,13 @@
 
 # 日程
 
-| 日程 | 発表者 | テーマ | 資料 |
+| 日程 | 発表者 | テーマ |
 |:--|:--|:--|:--|
-| 12月20日 | @__all_en__ | - | - |
-| 1月10日 | @pengin146 | - | - |
-| | @reew2n | - | -|
-| 1月17日 | @spade630 | - | - |
-| | cook | - | - |
-| 1月24日 | @Pulsar | - | - |
-| | N | - | - |
+| 12月20日 | @__all_en__ | [Segment Tree(初級)](https://speakerdeck.com/__all_en__/segment-tree-chu-ji) |
+| 1月10日 | @pengin146 | - |
+| | @reew2n | - |
+| 1月17日 | @spade630 | - |
+| | cook | - |
+| 1月24日 | @Pulsar | - |
+| | N | - |
+
